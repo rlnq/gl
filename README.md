@@ -1,6 +1,6 @@
 Homework 1 - Creation of LAMP web server in a private data processing center and analysis of the cost of resources. 
 
-The results of all calculations are in the file "homework_1.pdf".
+The results of all calculations and Azure pricing calculator are in the file "homework_1.pdf".
 
 Creating a web server in a private data center may be cheaper in the long run, but equipment must be purchased for startup and maintenance (Upfront CapEx). 
 In turn, the public cloud does not require buying new equipment for scaling (No CapEx).
